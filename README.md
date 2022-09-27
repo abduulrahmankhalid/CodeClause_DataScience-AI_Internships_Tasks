@@ -1,0 +1,2 @@
+# CodeClause_DataSciene_DiabeticRetinopathyDetection
+Diabetic-Retinopathy Detection using VGG16 Pretrained Model
